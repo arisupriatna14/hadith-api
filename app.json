@@ -2,7 +2,7 @@
     "name": "Hadith API",
     "description": "Hadith API",
     "repository": "https://github.com/arisupriatna14/hadith-api.git",
-    "stack": "heroku-18",
+    "stack": "heroku-22",
     "buildpacks": [
         {
         "url": "heroku/nodejs"
