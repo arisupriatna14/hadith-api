@@ -1,0 +1,12 @@
+{
+    "name": "Hadith API",
+    "description": "Hadith API",
+    "repository": "https://github.com/arisupriatna14/hadith-api.git",
+    "stack": "heroku-18",
+    "buildpacks": [
+        {
+        "url": "heroku/nodejs"
+        }
+    ],
+    "keywords": ["node", "express", "static", "hadith", "hadith-api", "api", "json"]
+}
